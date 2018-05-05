@@ -3,8 +3,9 @@ layout: post
 title: Understanding Gergonne's Card Trick - Python implementation and Math
 ---
 
-blah blah
+blah blah \\( \sqrt{123} \\)
 
 
+\[ \exp(x) \]
 
-#![_config.yml]({{ site.baseurl }}/images/config.png)
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
