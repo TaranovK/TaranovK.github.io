@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Understanding Gergonne's Card Trick - Python implementation and underlying mathematics
 ---
 
