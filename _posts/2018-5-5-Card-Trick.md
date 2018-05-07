@@ -93,6 +93,14 @@ As we can see from equation \\((\ref{eq:final})\\), the position of the card is 
 where \\(\hat{s}\\) is built by concatenating the digits \\(s_i\\) from right to left.
 
 
+## Generalized Gergonne's card trick
+
+In this section I'd like to focus on how the trick can be extended given the results of the previous section. 
+The number of piles  \\(p\\) represents the base of numerical system we need to use in our trick. 
+In 27 card trick this number is 3, and that is why the selected number is converted to base 3 numerical system. You can easily try base 2, or 4, or even 7. The digits in the  base \\(p\\) representation are should be read from right to left, and each digit means where in a new deck the pile with the selected card must go to. The digit stands for the  position of the selected pile starting from the top of the deck. The digit 0 means that the pile goes to the top, the digit 1 that it will the second one, and etc. The number of rounds \\(t\\)  says us how many digits we should have in our new numerical representation. Finally, the deck size must be equal to \\(p^t\\).
+
+
+
 ## Python implementation
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/TaranovK/card-trick-assets/master?filepath=card_trick.ipynb)
