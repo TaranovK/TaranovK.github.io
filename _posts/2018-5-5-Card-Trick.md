@@ -13,9 +13,7 @@ To be honest, I was fascinated by how math was used in the trick to move a selec
 The original trick uses a selection of 27 cards out of a standard deck. The volunteer chooses one card at random and pick a number between 1 and 27. The cards are then dealt out face up in three columns of 9 cards each. The volunteer points to the pile containing their card. The cards are picked up and the process is repeated three times. Afterwards, the deck is dealt again and the selected cards appears at the position chosen by the volunteer. You can see the trick in action on the video below. 
 
 <p align="center">
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=l7lP9y7Bb5g
-" target="_blank"><img src="https://img.youtube.com/vi/l7lP9y7Bb5g/0.jpg" 
-alt="the original video"  border="10" /></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l7lP9y7Bb5g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
 The secret of the trick is based on the base 3 number system.
